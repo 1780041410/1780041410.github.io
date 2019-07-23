@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: '老郭是屌丝'
+title: '欢迎来到yxz的网站'
 description: 'NLP、算法研究生，喜欢分享和折腾，尤其是瞎折腾，希望能和你一起折腾。'
 keyword: '我的博客, 算法, 机器学习, 深度学习, NLP'
 url: '' # your host
@@ -24,7 +24,7 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: '郭旭炀'
+author: '杨先智'
 nickname: '没有'
 bio: '算法技术氛围破坏者，平均性能拉低者'
 avatar: '/assets/img/profile.png'
@@ -59,8 +59,8 @@ sns:
   weibo: '//weibo.com'
   juejin: '//juejin.im'
   instagram: '//www.instagram.com'
-  github: '//github.com/theDoctor2013'
-  csdn: '//blog.csdn.net/cx943024256'
+  github: '//github.com/1780041410'
+  csdn: '//blog.csdn.net/yz1780041410'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
